@@ -3,4 +3,5 @@ fn main() {
     println!("How");
     println!("are");
     println!("you?");
+    print!("test")
 }
